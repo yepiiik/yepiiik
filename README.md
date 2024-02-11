@@ -13,15 +13,3 @@ Here you can find various projects that surve to simplify our being.<br>
 <a href="https://linkedin.com/in/yepik-denys" target="blank" class="btn"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yepik-denys" height="30" width="40" />LinkedIn</a>
 <a href="https://instagram.com/yepik.denys" target="blank" class="btn"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yepik.denys" height="30" width="40" />Instagram</a>
 </p>
-
-<style>
-    .btn {
-        display: inline-flex;
-        width: fit-content;
-        padding: 10pt;
-        border: solid 1px;
-        border-radius: 8px;
-        align-items: center;
-        gap: 4pt
-    }
-</style>
