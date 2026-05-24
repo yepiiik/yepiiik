@@ -1,9 +1,8 @@
 # Welcome to the Lab...
 In my spare time I apply coding skills in areas I'm obsessed about...
 
-- **...EdTech (Educational Technologies),**
-- **...Understanding of Artificial and Human Intelligence**
-- **...Connecting Digital and Real World,**
+- **Teaching/Coaching** - EdTech (Educational Technologies),
+- **Content Creation** - Automations, Research Tools
 
 ## Projects by groups:
 ### Artificial Inteliegence (AI)
